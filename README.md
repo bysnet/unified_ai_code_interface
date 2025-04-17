@@ -1,1 +1,2 @@
-# unified_ai_code_interface
+# 🧠 Unified AI Chat Interface
+...
